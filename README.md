@@ -1,0 +1,2 @@
+# Design-Improvement-and-Quality-Control-of-Boeing-737-Max-Aircraft
+The main purpose of the project is to investigate the root cause involved in the SDLC of the Boeing 737 Max design failure. All the phases were thoroughly presented from the project Initiation (Correlation Analysis and VSM) and Planning (DOE and SCM) to Quality Control and Risk Management to provide insights on the root causes and improve the system.
